@@ -13,14 +13,11 @@
 [redux-storage-engine-localstorage][] - but it does not require a environment
 with ES6 Promises.
 
-# Deprecated - No longer maintained
+# A fork of [michaelcontento/redux-storage-engine-localstoragefakepromise](https://github.com/michaelcontento/redux-storage-engine-localstoragefakepromise)
 
-My focus has left the node / react ecosystem and this module is no
-longer maintained. Maybe [redux-persist](https://github.com/rt2zz/redux-persist) 
-is a good replacement for you? Or if you want to step in and become
-the new owner - just ping me :smile:
+The original author of the package [redux-storage-engine-localstoragefakepromise](https://github.com/michaelcontento/redux-storage-engine-localstoragefakepromise) has decided to deprecate the project and no longer maintained. The package will now be maintained here.
 
-Thank you for your patience and using this module in the first place!
+Thank you michaelcontento for a great library!
 
 ## Warning
 
@@ -64,7 +61,7 @@ const engine = createEngine('my-save-key');
     IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
     CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-  [redux-storage]: https://github.com/michaelcontento/redux-storage
-  [redux-storage-engine-localstorage]: https://github.com/michaelcontento/redux-storage-engine-localstorage
-  [redux-storage-engine-localstoragefakepromise]: https://github.com/michaelcontento/redux-storage-engine-localstoragefakepromise
+  [redux-storage]: https://github.com/guns2410/redux-storage
+  [redux-storage-engine-localstorage]: https://github.com/guns2410/redux-storage-engine-localstorage
+  [redux-storage-engine-localstoragefakepromise]: https://github.com/guns2410/redux-storage-engine-localstoragefakepromise
   [es6-promise]: https://www.npmjs.com/package/es6-promise
