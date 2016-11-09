@@ -13,12 +13,6 @@
 [redux-storage-engine-localstorage][] - but it does not require a environment
 with ES6 Promises.
 
-# A fork of [michaelcontento/redux-storage-engine-localstoragefakepromise](https://github.com/michaelcontento/redux-storage-engine-localstoragefakepromise)
-
-The original author of the package [redux-storage-engine-localstoragefakepromise](https://github.com/michaelcontento/redux-storage-engine-localstoragefakepromise) has decided to deprecate the project and no longer maintained. The package will now be maintained here.
-
-Thank you michaelcontento for a great library!
-
 ## Warning
 
 In contrast to [redux-storage-engine-localstorage][] this engine can be used
@@ -37,6 +31,12 @@ Similar to [redux-storage-engine-localstorage][]:
 import createEngine from 'redux-storage-engine-localstoragefakepromise';
 const engine = createEngine('my-save-key');
 ```
+
+# A fork of [redux-storage-engine-localstoragefakepromise](https://github.com/michaelcontento/redux-storage-engine-localstoragefakepromise)
+
+The original author of the package [redux-storage-engine-localstoragefakepromise](https://github.com/michaelcontento/redux-storage-engine-localstoragefakepromise) has decided to deprecate the project and no longer maintained. The package will now be maintained here.
+
+Thank you [michaelcontento](https://github.com/michaelcontento) for a great library!
 
 ## License
 
