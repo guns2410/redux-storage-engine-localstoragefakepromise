@@ -1,13 +1,12 @@
 # [redux-storage-engine-localstoragefakepromise][]
 
-[![build](https://travis-ci.org/michaelcontento/redux-storage-engine-localstoragefakepromise.svg?branch=master)](https://travis-ci.org/michaelcontento/redux-storage-engine-localstoragefakepromise)
-[![dependencies](https://david-dm.org/michaelcontento/redux-storage-engine-localstoragefakepromise.svg)](https://david-dm.org/michaelcontento/redux-storage-engine-localstoragefakepromise)
-[![devDependencies](https://david-dm.org/michaelcontento/redux-storage-engine-localstoragefakepromise/dev-status.svg)](https://david-dm.org/michaelcontento/redux-storage-engine-localstoragefakepromise#info=devDependencies)
+[![build](https://travis-ci.org/react-stack/redux-storage-engine-localstoragefakepromise.svg?branch=master)](https://travis-ci.org/react-stack/redux-storage-engine-localstoragefakepromise)
+[![dependencies](https://david-dm.org/react-stack/redux-storage-engine-localstoragefakepromise.svg)](https://david-dm.org/react-stack/redux-storage-engine-localstoragefakepromise)
+[![devDependencies](https://david-dm.org/react-stack/redux-storage-engine-localstoragefakepromise/dev-status.svg)](https://david-dm.org/react-stack/redux-storage-engine-localstoragefakepromise#info=devDependencies)
 
 [![license](https://img.shields.io/npm/l/redux-storage-engine-localstoragefakepromise.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-engine-localstoragefakepromise)
 [![npm version](https://img.shields.io/npm/v/redux-storage-engine-localstoragefakepromise.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-engine-localstoragefakepromise)
 [![npm downloads](https://img.shields.io/npm/dm/redux-storage-engine-localstoragefakepromise.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-engine-localstoragefakepromise)
-[![Code Climate](https://codeclimate.com/github/michaelcontento/redux-storage-engine-localstoragefakepromise/badges/gpa.svg)](https://codeclimate.com/github/michaelcontento/redux-storage-engine-localstoragefakepromise)
 
 `window.localStorage` based engine for [redux-storage][] - like
 [redux-storage-engine-localstorage][] - but it does not require a environment
