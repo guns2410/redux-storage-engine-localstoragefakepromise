@@ -6,18 +6,21 @@
   "scripts": {
     "test": "make lint test build"
   },
+  "bugs": "https://github.com/react-stack/redux-storage-engine-localstoragefakepromise/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/michaelcontento/redux-storage-engine-localstoragefakepromise.git"
+    "url": "https://github.com/react-stack/redux-storage-engine-localstoragefakepromise.git"
   },
-  "homepage": "https://github.com/michaelcontento/redux-storage-engine-localstoragefakepromise",
+  "homepage": "https://github.com/react-stack/redux-storage-engine-localstoragefakepromise",
   "keywords": [
     "redux",
     "redux-storage",
     "redux-storage-engine",
     "localStorage"
   ],
-  "author": "Michael Contento <michaelcontento@gmail.com>",
+  "author": [
+    "Michael Contento <michaelcontento@gmail.com>"
+  ],
   "files": [
     "build/",
     "src",
